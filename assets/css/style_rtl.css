@@ -44,3 +44,20 @@ a:hover,
 a:focus{
     outline: none;
 }
+
+/*--------------------------------*/
+.ltr{
+    direction: ltr;
+}
+.rtl{
+    direction: rtl;
+}
+.dis-in-blc{
+    display: inline-block;
+}
+.dis-blc{
+    display: block;
+}
+.dis-in{
+    display: inline;
+}
