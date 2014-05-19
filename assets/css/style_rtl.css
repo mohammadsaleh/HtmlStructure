@@ -1,3 +1,6 @@
+body{
+    direction: rtl;
+}
 .navbar-nav > li {
     float: right;
 }
