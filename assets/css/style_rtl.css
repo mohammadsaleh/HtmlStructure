@@ -60,6 +60,9 @@ blockquote.pull-right small:after,
 blockquote.pull-right .small:after{
     content: none;
 }
+.nav-pills > li {
+    float: right;
+}
 /*--------------------------------*/
 .ltr{
     direction: ltr;
